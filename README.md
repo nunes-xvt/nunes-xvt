@@ -15,7 +15,3 @@ Tech Enthusiast with a passion for software development. Proudly from [Cuiabá, 
 - GitHub: [github.com/nunes-xvt](https://github.com/nunes-xvt)
 - Instagram: [instagram.com/nunes.xvt](https://www.instagram.com/nunes.xvt)
 - E-mail: [luisguilhermejnunesdasilva45@gmail.com]
-
-### 📚 Looking for my Resume? E-Mail me!
-
-![Luis Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=nunes-xvt&show_icons=true&hide_border=true)
