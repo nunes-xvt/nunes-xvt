@@ -1,14 +1,21 @@
-<h1 align="center">Hi 👋, I'm Luis Guilherme Jeremias Nunes da Siolva</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+# Hello, I'm Luis Guilherme 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/nunes.xvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nunes.xvt" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Beginner-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Tech Enthusiast with a passion for software development. Proudly from [Cuiabá, MT](https://maps.google.com/?q=Cuiaba,MT) 🇧🇷
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nunes-xvt&show_icons=true&locale=en&layout=compact" alt="nunes-xvt" /></p>
+- 🎓 Currently studying **[ Computing on IFMT Campus Cuiabá]**
+- 🌱 I’m currently learning **Python** and **C++**
+- ⚙️ Mastering: `.py`, `.cpp`
+- 💬 I'm interested in **Software Development** and **Technology**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nunes-xvt&show_icons=true&locale=en" alt="nunes-xvt" /></p>
+### 🔗 Get in Touch
+
+- GitHub: [github.com/nunes-xvt](https://github.com/nunes-xvt)
+- Instagram: [instagram.com/nunes.xvt](https://www.instagram.com/nunes.xvt)
+- E-mail: [luisguilhermejnunesdasilva45@gmail.com]
+
+### 📚 Looking for my Resume? E-Mail me!
+
+![Luis Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=nunes-xvt&show_icons=true&hide_border=true)
