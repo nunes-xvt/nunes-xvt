@@ -5,7 +5,7 @@
 
 Tech Enthusiast with a passion for software development. Proudly from [Cuiabá, MT](https://maps.google.com/?q=Cuiaba,MT) 🇧🇷
 
-- 🎓 Currently studying **[ Computing on IFMT Campus Cuiabá]**
+- 🎓 Currently studying **Computing on IFMT Campus Cuiabá**
 - 🌱 I’m currently learning **Python** and **C++**
 - ⚙️ Mastering: `.py`, `.cpp`
 - 💬 I'm interested in **Software Development** and **Technology**
